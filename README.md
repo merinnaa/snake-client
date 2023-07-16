@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-<img width="622" alt="Screenshot 2023-07-16 at 3.22.49 PM" src="https://github.com/merinnaa/snake-client/assets/107540971/5abc6321-e258-420f-a431-ba0561c4d904">
-<img width="465" alt="Screenshot 2023-07-16 at 3.23.14 PM" src="https://github.com/merinnaa/snake-client/assets/107540971/3e082138-def7-47a1-a8df-2b91d599edad">
+<img width="564" alt="Screenshot 2023-07-16 at 3 22 49 PM" src="https://github.com/merinnaa/snake-client/assets/107540971/74010342-7222-48d2-b60b-8c95f0cdea34">
+<img width="555" alt="Screenshot 2023-07-16 at 3 23 14 PM" src="https://github.com/merinnaa/snake-client/assets/107540971/04faebf5-6f40-44c2-9145-313d666b6274">
 
 
 ## Getting Started
