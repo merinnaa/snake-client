@@ -1,16 +1,16 @@
 const IP = "localhost"; // Replace with the correct IP address
 const PORT = 50541;
-const PLAYER_NAME = "LB";
+const PLAYER_NAME = "LUL";
 const SAY_MESSAGES = {
-  'x' : "Hello, everyone!",
-  'y' : "Good game!",
-  'z' : "I'm the best snake!",
+  x: "Say: Hello, everyone!",
+  y: "Say: Good game!",
+  z: "Say: I'm the best snake!",
 };
 const MOVE_KEY = {
-  w: "move: up",
-  a: "move: left",
-  s: "move: down",
-  d: "move: right",
+  w: "Move: up",
+  a: "Move: left",
+  s: "Move: down",
+  d: "Move: right",
 };
 module.exports = {
   IP,
